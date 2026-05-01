@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Haseeb 👋
 
-<!--
-**haseeb-ml-engineer/haseeb-ml-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+- BS-IT student focused on Machine Learning & AI  
+- Building projects using Python and ML algorithms  
+- Interested in real-world applications of ML  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python  
+- NumPy, Pandas, Matplotlib  
+- Scikit-learn  
+- C (Basics)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Current Focus
+- Machine Learning Fundamentals  
+- Building regression and classification models  
+- Improving data analysis and model evaluation  
+
+## 🚀 Projects
+- House Price Prediction Model (in progress)
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/haseeb-tariq-0x
