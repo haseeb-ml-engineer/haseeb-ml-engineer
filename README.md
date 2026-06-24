@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E86AB&height=120&section=header&text=Haseeb%20Tariq&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Aspiring%20Machine%20Learning%20Engineer&descSize=16&descAlignY=85&descColor=c9d9ed" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E86AB&height=140&section=header&text=Haseeb%20Tariq&fontSize=36&fontColor=ffffff&fontAlignY=60&desc=Machine%20Learning%20Engineer&descSize=15&descAlignY=78&descColor=c9d9ed" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=BS+Information+Technology+Student;Aspiring+Machine+Learning+Engineer;Building+real+ML+systems+from+scratch;Healthcare+AI+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=BS+Information+Technology+Student;Machine+Learning+Engineer+Intern;Building+real+ML+systems+from+scratch;Healthcare+AI+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@ Right now I'm focused on **healthcare AI**, **computer vision**, and moving from
 
 ```python
 haseeb = {
-    "role"        : "Aspiring Machine Learning Engineer",
+    "role"        : "Machine Learning Engineer Intern",
     "education"   : "BS Information Technology",
     "focus"       : ["Machine Learning", "Deep Learning", "Computer Vision", "Healthcare AI"],
     "currently"   : "Building TrueLens AI — an AI-powered deepfake detection system",
