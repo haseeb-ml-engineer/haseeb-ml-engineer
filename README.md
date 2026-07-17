@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E86AB&height=160&section=header&text=Haseeb%20Tariq&fontSize=52&fontColor=ffffff&fontAlignY=55&fontWeight=700&desc=Machine%20Learning%20Engineer&descSize=16&descAlignY=75&descColor=d6eaf8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E86AB&height=160&section=header&text=Haseeb%20Tariq&fontSize=52&fontColor=ffffff&fontAlignY=58&fontWeight=700&desc=Machine%20Learning%20Engineer&descSize=15&descAlignY=75&descColor=d6eaf8" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2E86AB&center=true&vCenter=true&width=620&lines=BS+Information+Technology+%7C+ML+%2F+AI+Specialisation;Machine+Learning+Engineer+Intern+%40+FlyRank;Building+TrueLens+AI+%E2%80%94+Deepfake+Detection+Platform;Healthcare+AI+%C2%B7+Computer+Vision+%C2%B7+NLP+%C2%B7+RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=BS+Information+Technology+Student;Machine+Learning+Engineer+Intern;Building+real+ML+systems+from+scratch;Healthcare+AI+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haseeb%20Tariq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-tariq-0x)
 [![GitHub](https://img.shields.io/badge/GitHub-haseeb--ml--engineer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haseeb-ml-engineer)
-[![Email](https://img.shields.io/badge/Email-haseebtariq.babbar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseebtariq.babbar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-haseebtariq.babbar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseebtariq.babbar@gmail.com)
 
 </div>
 
@@ -30,13 +30,13 @@ Right now I'm focused on **healthcare AI**, **computer vision**, and moving from
 
 ```python
 haseeb = {
-    "role"        : "Machine Learning Engineer Intern @ FlyRank",
-    "education"   : "BS Information Technology — ML / AI Specialisation",
-    "focus"       : ["Machine Learning", "Deep Learning", "Computer Vision", "NLP", "RAG"],
+    "role"        : "Machine Learning Engineer Intern",
+    "education"   : "BS Information Technology",
+    "focus"       : ["Machine Learning", "Deep Learning", "Computer Vision", "Healthcare AI"],
     "currently"   : "Building TrueLens AI — an AI-powered deepfake detection system",
-    "learning"    : ["TensorFlow", "MLOps", "Computer Vision pipelines", "Vector Databases"],
+    "learning"    : ["TensorFlow", "MLOps", "Computer Vision pipelines"],
     "goal"        : "Build intelligent systems that solve real-world problems",
-    "based_in"    : "Lahore, Pakistan 🇵🇰",
+    "based_in"    : "Pakistan 🇵🇰",
 }
 ```
 
@@ -48,29 +48,18 @@ haseeb = {
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 
 **Machine Learning & Data Science**
 
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
 
-**NLP & Vector Search**
-
-![NLTK](https://img.shields.io/badge/NLTK-3d7a3d?style=flat-square&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![TF--IDF](https://img.shields.io/badge/TF--IDF-8E44AD?style=flat-square&logoColor=white)
-![Word2Vec](https://img.shields.io/badge/Word2Vec-2E86AB?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-1ABC9C?style=flat-square)
-
 **Deployment & Tools**
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 
@@ -79,7 +68,6 @@ haseeb = {
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
 ![MLOps](https://img.shields.io/badge/MLOps-In%20Progress-22C55E?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-In%20Progress-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -87,13 +75,11 @@ haseeb = {
 
 | Area | Status |
 |---|---|
-| 🤖 Classical ML (Scikit-learn pipelines, SVM, Random Forest) | ✅ |
+| 🤖 Classical ML (Scikit-learn pipelines, SVM, Random Forest) | ✅ Applied in production projects |
 | 🧬 Healthcare AI | ✅ Multi-Disease Prediction System deployed |
-| 💬 NLP (Tokenisation, TF-IDF, Embeddings, Sentiment Analysis) | ✅ |
-| 🗄️ Vector Databases & RAG Pipelines (ChromaDB) | ✅ |
-| 🕵️ Computer Vision / Deepfake Detection | 🔨 In progress |
-| 🧠 Deep Learning (TensorFlow / PyTorch) | 📖 Learning |
-| ⚙️ MLOps & model deployment | 📖 Learning |
+| 🕵️ Computer Vision / Deepfake Detection | 🔨 In progress — TrueLens AI |
+| 🧠 Deep Learning (TensorFlow) | 📖 Actively learning |
+| ⚙️ MLOps & model deployment | 📖 Actively learning |
 
 ---
 
@@ -122,20 +108,9 @@ A deepfake detection system built to identify AI-generated and manipulated image
 
 **Current stage:** Backend ML pipeline in development · Frontend (Flutter + Riverpod) complete
 
-**Stack:** `Python` `PyTorch` `FastAPI` `Flutter` `Computer Vision` `Vision Transformers`
+**Stack:** `Python` `PyTorch` `FastAPI` `Flutter` `Computer Vision`
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github)](https://github.com/haseeb-ml-engineer/truelens-ai)
-
----
-
-### 📚 Supervised Learning with Scikit-learn
-> *Clean, documented learning repository covering classical ML from scratch*
-
-A structured set of notebooks covering KNN, Regression, Regularisation (Ridge/Lasso), Cross-Validation, and Hyperparameter Tuning — written to be readable and reproducible, not just run-once experiments.
-
-**Stack:** `Python` `Scikit-learn` `Jupyter` `Pandas` `NumPy`
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github)](https://github.com/haseeb-ml-engineer/supervised-learning-with-scikit-learn)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github)](https://github.com/haseeb-ml-engineer)
 
 ---
 
@@ -163,7 +138,6 @@ Every project I've shipped has taught me something a course doesn't cover:
 - That a working notebook is not the same as a working system
 - That `StandardScaler` inside a `Pipeline` is not optional — it's the difference between a leaking model and a real one
 - That Recall matters more than accuracy when the cost of a false negative is a missed diagnosis
-- That SQL doesn't know "car" and "automobile" mean the same thing — and that's exactly why vector databases exist
 
 I'm not trying to look further along than I am. I'm a student who builds real things, breaks them, figures out why, and builds them better. That's the whole plan.
 
@@ -179,7 +153,6 @@ I'm currently pursuing this through:
 - Building complete, deployed ML projects (not just model training)
 - An ML Engineering internship at **FlyRank** (AI-powered organic growth platform)
 - Pushing toward deep learning and computer vision through TrueLens AI
-- Exploring NLP, RAG pipelines, and vector search as part of AI Engineering
 - Sharing the process publicly on LinkedIn and GitHub
 
 ---
@@ -198,8 +171,8 @@ I'm always open to connecting with other ML practitioners, receiving feedback on
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:1F4E79&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:1F4E79&height=80&section=footer" width="100%"/>
 
-<sub>Building one real project at a time · Open to Data Science & ML Engineering internships</sub>
+<sub>Building one real project at a time · Open to internships and entry-level ML Engineering roles</sub>
 
 </div>
