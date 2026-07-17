@@ -34,7 +34,7 @@ haseeb = {
     "education"   : "BS Information Technology",
     "focus"       : ["Machine Learning", "Deep Learning", "Computer Vision", "Healthcare AI"],
     "currently"   : "Building TrueLens AI — an AI-powered deepfake detection system",
-    "learning"    : ["TensorFlow", "MLOps", "Computer Vision pipelines"],
+    "learning"    : ["RAG Pipelines", "Vector Databases", "LangChain", "LangGraph"],
     "goal"        : "Build intelligent systems that solve real-world problems",
     "based_in"    : "Pakistan 🇵🇰",
 }
@@ -65,9 +65,11 @@ haseeb = {
 
 **Currently Learning**
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
-![MLOps](https://img.shields.io/badge/MLOps-In%20Progress-22C55E?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-8E44AD?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-ChromaDB-FF6B35?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-Semantic%20Search-2E86AB?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-In%20Progress-22C55E?style=flat-square)
 
 ---
 
@@ -123,7 +125,7 @@ A deepfake detection system built to identify AI-generated and manipulated image
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haseeb-ml-engineer&theme=github-dark-blue&hide_border=true&stroke=2E86AB&ring=2E86AB&fire=FF6B35&currStreakLabel=c9d9ed" />
+<img src="https://streak-stats.demolab.com/?user=haseeb-ml-engineer&theme=github-dark-blue&hide_border=true&stroke=2E86AB&ring=2E86AB&fire=FF6B35&currStreakLabel=c9d9ed" />
 
 </div>
 
